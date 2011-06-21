@@ -1,0 +1,5 @@
+* emacs-color-theme-cool-dark.el
+  Modified from themes tango and chocolate rain, but better.
+
+
+[[https://github.com/yhvh/color-theme-cool-dark/raw/master/screenshot.png]]
